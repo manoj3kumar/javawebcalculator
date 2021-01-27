@@ -50,7 +50,6 @@ public class Calculator extends HttpServlet
         }
         catch(Exception e)
         {
-
         }
     }
 }
